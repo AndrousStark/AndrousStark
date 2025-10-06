@@ -19,7 +19,7 @@
 ```bash
 ┌─[aniruddh@security-ops]─[~/cyber-defense]
 └──╼ $ whoami
-Cybersecurity Analyst • DevOps Engineer • AI Developer | University of Florida MCS
+Cybersecurity Analyst • DevOps Engineer • AI Developer | University of Florida MS
 
 ┌─[aniruddh@security-ops]─[~/achievements]
 └──╼ $ ls -la
@@ -27,13 +27,14 @@ total 965
 drwxr-xr-x  2 publications in IEEE & research journals
 drwxr-xr-x  4+ years of elite security & infrastructure engineering
 drwxr-xr-x  80+ production deployments with 99% success rate
+drwxr-xr-x  Active GitHub contributor with ML & security projects
 -rw-r--r--  70% reduction in RCE vulnerabilities achieved
 -rw-r--r--  65% CVE exposure decrease delivered
 -rw-r--r--  40% CI/CD build time optimization completed
 
 ┌─[aniruddh@security-ops]─[~/current-mission]
 └──╼ $ cat vision.txt
-Fortifying digital infrastructure and automating security at scale 🛡️
+Building intelligent security systems and automating infrastructure at scale 🛡️
 ```
 
 <br/>
@@ -48,7 +49,7 @@ Fortifying digital infrastructure and automating security at scale 🛡️
 <img src="https://img.shields.io/badge/📧_aniruddh.atrey111101@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
 </td>
 <td align="center" width="200px">
-<img src="https://img.shields.io/badge/📍_Noida,_India-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
+<img src="https://img.shields.io/badge/📍_Gainesville,_FL-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
 </td>
 </tr>
 </table>
@@ -58,7 +59,7 @@ Fortifying digital infrastructure and automating security at scale 🛡️
 <a href="https://linkedin.com/in/aniruddhatrey/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/aniruddhatrey">
+<a href="https://github.com/AndrousStark">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
 </a>&nbsp;&nbsp;
 <a href="#">
@@ -184,6 +185,20 @@ print(f"Status: {achievement_matrix['security']['vulnerability_reduction']}")
 <img src="https://img.shields.io/badge/📚_2_Research_Publications-success?style=for-the-badge&labelColor=2C3E50"/>
 <img src="https://img.shields.io/badge/🎓_4+_Certifications-blue?style=for-the-badge&labelColor=2C3E50"/>
 <img src="https://img.shields.io/badge/🚀_4+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-orange?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/⚡_YOLO_Merger-yellow?style=for-the-badge&labelColor=2C3E50"/>
+
+<br/>
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AndrousStark&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrousStark&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFA116&currStreakLabel=4ECDC4" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrousStark&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="48%" />
+</p>
 
 </div>
 
@@ -289,72 +304,188 @@ print(f"Status: {achievement_matrix['security']['vulnerability_reduction']}")
 
 <div align="center">
 
-### 🔒 **PHANTOM**
+### 🛡️ **NETWORK INTRUSION DETECTION**
 
-**Modular Cybersecurity Automation Framework**
+**Machine Learning-Based Security System**
 
-<img src="https://img.shields.io/badge/Impact-3x_Asset_Coverage-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Tech-ML_Security-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Backend: Django • Python • ASGI
-Architecture: Plugin-Based Extensible Framework
-Security Tools: SQLmap • ZAP • Nmap • Nuclei
-Automation: Selenium Wire • Task Orchestration
-Infrastructure: VM Orchestration • Geo-Segmentation
+ML Framework: Jupyter Notebook • Python
+Algorithms: Neural Networks • Classification Models
+Security: Intrusion Detection • Anomaly Detection
+License: GNU General Public License v3.0
+Development: Full-Stack Capabilities
 ```
 
-**📊 MEASURABLE OUTCOMES**
+**📊 PROJECT FOCUS**
 
-- 🚀 **10+ security tools** integrated seamlessly
-- ⚡ **45% optimization** in scan allocation
-- 🎯 **3x faster** asset coverage achieved
-- 📈 **90% improvement** in scan-to-report SLAs
+- 🚀 **Portfolio showcase** of development capabilities
+- 🤖 **ML-powered** network security detection
+- 🎯 **Real-time** threat identification
+- 📈 **Scalable** security architecture
 
 **🎯 INNOVATION HIGHLIGHTS**
 
-- Real-time vulnerability triage & defacement detection
-- Intelligent VM orchestration with elastic provisioning
-- Parallelized execution with centralized observability
+- Machine learning for network threat detection
+- Automated intrusion identification systems
+- Portfolio demonstration of AI/ML security expertise
+- Published as open-source security tool
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🚖 **GATOR-TAXI**
+### 🔍 **PORT SCANNER**
 
-**High-Performance Campus Dispatch System**
+**Full-Stack Security Tool**
 
-<img src="https://img.shields.io/badge/Performance-50%25_Faster_Pickups-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Language-Python-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Language: C++
-Data Structures: Red-Black Trees • Min Heaps
-Algorithms: Optimized Search & Dispatch
-Architecture: High-Performance Real-Time System
-Optimization: Idle Time Reduction
+Language: Python
+Application Type: Network Security Tool
+Focus: Port Scanning & Network Enumeration
+Architecture: Full-Stack Development
+Purpose: Security Assessment
 ```
 
-**📊 MEASURABLE OUTCOMES**
+**📊 PROJECT OUTCOMES**
 
-- ⚡ **50% faster** passenger pickups achieved
-- 🎯 **30% reduction** in passenger wait times
-- 🚀 **40% decrease** in idle taxi times
-- 📊 Campus-wide transportation transformation
+- ⚡ **Full-stack** development demonstration
+- 🎯 **Network security** tool implementation
+- 🚀 **Python-based** scanning capabilities
+- 📊 Practical cybersecurity application
 
 **🎯 INNOVATION HIGHLIGHTS**
 
-- Red-Black Tree implementation for location storage
-- Min Heap optimization for dispatch efficiency
-- Real-time matching algorithms for swift service
+- Network port scanning functionality
+- Security enumeration capabilities
+- Hands-on penetration testing tool development
+- Active reconnaissance automation
+
+</td>
+</tr>
+</table>
+
+<!-- GitHub Contributions -->
+<div align="center">
+
+## 🏆 **GITHUB ACHIEVEMENTS & CONTRIBUTIONS**
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-Merged_PRs-00D4AA?style=for-the-badge&labelColor=2C3E50"/>
+<br/><sub><b>Active Contributor</b></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/⚡_YOLO-Quick_Merges-FFD700?style=for-the-badge&labelColor=2C3E50"/>
+<br/><sub><b>Fast Development</b></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/📊_Contribution_History-Active-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+<br/><sub><b>Regular Commits</b></sub>
+</td>
+</tr>
+</table>
+
+**🌟 Public Repositories:**
+- Network Intrusion Detection (ML)
+- Port Scanner Tool (Python)
+- AndrousStark Profile
+- Contribution History Tracker
+
+</div>
+
+<!-- Elite Project Showcase OLD - KEEPING FOR REFERENCE
+<div align="center">
+
+## 🔥 **SIGNATURE PROJECTS PORTFOLIO (FROM EXPERIENCE)**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛡️ **NETWORK INTRUSION DETECTION**
+
+**Machine Learning-Based Security System**
+
+<img src="https://img.shields.io/badge/Tech-ML_Security-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+
+</div>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+ML Framework: Jupyter Notebook • Python
+Algorithms: Neural Networks • Classification Models
+Security: Intrusion Detection • Anomaly Detection
+License: GNU General Public License v3.0
+Development: Full-Stack Capabilities
+```
+
+**📊 PROJECT FOCUS**
+
+- 🚀 **Portfolio showcase** of development capabilities
+- 🤖 **ML-powered** network security detection
+- 🎯 **Real-time** threat identification
+- 📈 **Scalable** security architecture
+
+**🎯 INNOVATION HIGHLIGHTS**
+
+- Machine learning for network threat detection
+- Automated intrusion identification systems
+- Portfolio demonstration of AI/ML security expertise
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔍 **PORT SCANNER**
+
+**Full-Stack Security Tool**
+
+<img src="https://img.shields.io/badge/Language-Python-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+
+</div>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Language: Python
+Application Type: Network Security Tool
+Focus: Port Scanning & Network Enumeration
+Architecture: Full-Stack Development
+Purpose: Security Assessment
+```
+
+**📊 PROJECT OUTCOMES**
+
+- ⚡ **Full-stack** development demonstration
+- 🎯 **Network security** tool implementation
+- 🚀 **Python-based** scanning capabilities
+- 📊 Practical cybersecurity application
+
+**🎯 INNOVATION HIGHLIGHTS**
+
+- Network port scanning functionality
+- Security enumeration capabilities
+- Hands-on penetration testing tool development
 
 </td>
 </tr>
@@ -551,7 +682,7 @@ _Noida, India • Jul 2019 – May 2023_
 
 ## 📈 **DEVELOPMENT ACTIVITY MATRIX**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhatrey&custom_title=Annual%20Security%20&%20Development%20Activity&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrousStark&custom_title=Annual%20Security%20&%20Development%20Activity&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
 </div>
 
@@ -565,10 +696,10 @@ _Noida, India • Jul 2019 – May 2023_
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=aniruddhatrey&color=blueviolet&style=for-the-badge&label=Profile+Analytics" />
+<img src="https://komarev.com/ghpvc/?username=AndrousStark&color=blueviolet&style=for-the-badge&label=Profile+Analytics" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/aniruddhatrey?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
+<img src="https://img.shields.io/github/followers/AndrousStark?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
